@@ -1,0 +1,60 @@
+.header_logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin-bottom: 35px; */
+    margin-top: 1rem;
+    height: 64px;
+    /* background-color: aquamarine; */
+    margin-top: 0;
+    z-index: 99;
+    background: rgba(240, 230, 140, 0.555);
+    backdrop-filter: blur(40px);
+    box-shadow: 5px 8px #88888857;
+    border-radius: 8px;
+}
+
+header > h1 {
+    cursor: pointer;
+}
+
+header > h3 {
+    cursor: pointer;
+    margin-left: 20px;
+    background-color: rgb(94, 196, 94);
+    color: honeydew;
+    /* height: 60%; */
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.font_title {
+    /* font-family: "Roboto"; */
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.sub_menu {
+    justify-content: center;
+    display: flex;
+}
+
+.mid {
+    width: 40%;
+}
+
+.sub_menu>p {
+    margin-left: 4rem;
+}
+
+.box_button {
+    cursor: pointer;
+    margin-left: 4rem;
+    padding: 0 2rem;
+    color: #FBFBFD;
+    background: #FAA21B;
+}
