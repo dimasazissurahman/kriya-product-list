@@ -29,6 +29,7 @@ Before started make sure to npm install and then can running with npm run start.
 I build each folder for component, container, and api.
 based on my experience, it would be easier to find file, and if project get bigger it would be reusable component.
 
+this project has been deploy at this url : https://admiring-morse-dd35c6.netlify.app/
 
 Thank you
 
